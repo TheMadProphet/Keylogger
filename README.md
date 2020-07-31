@@ -8,7 +8,7 @@ You will need Linux with NASM assembler
     git clone https://github.com/DullGlow/Keylogger.git
     cd Keylogger
     make
-    ./keylogger
+    sudo ./keylogger
 
 ## Disclaimer:
 *This tool is free to use and modify, however I do not condone, support, suggest, or otherwise promote unethical or illegal behavior. Use this tool at your own risk, and only against the devices to which you have explicit permissions on. Any use otherwise is against the terms of use for the tool.*
